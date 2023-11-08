@@ -1,3 +1,3 @@
-# ReSpec template Logius
+# BOMOS voor open source
 
-Template voor Afdeling Standaarden.
+Module voor het beheer van open source code volgens BOMOS principes.
