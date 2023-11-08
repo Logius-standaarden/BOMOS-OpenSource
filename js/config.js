@@ -34,7 +34,7 @@ var respecConfig = {
   alternateFormats: [
       {
           label: "pdf",
-          uri: "template.pdf",
+          uri: "BOMOS-OpenSource.pdf",
       },
   ],
 };
