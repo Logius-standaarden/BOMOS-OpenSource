@@ -1,5 +1,18 @@
 # BOMOS voor open source
+Wanneer bij de keuze voor een software applicatie een afweging gemaakt moet worden 
+tussen een open source applicatie en een met een gesloten (commercieele) licentie 
+spelen naast criteria als kosten en kwaliteit ook altijd de vraag 
+"_wordt de applicatie wel ondersteund_" mee. Bij een commerieel product kan support
+afgenomen worden als dienst bij de leverancier die het product levert. Bij open 
+source is dat soms minder duidelijk.
 
+Deze handreiking probeert een kader te geven waarmee open source code _open beheerd_ 
+kan worden. Het Beheer- en ontwikkelmodel Open Standaarden is ontwikkeld als een
+handreiking voor het beheer van standaarden. De principes zijn ook toepasbaar gebleken
+op het beheer van afsprakenstelsels. Deze handreiking beoogt ondersteuning aan het
+beheer van open source code te geven vanuit de BOMOS bril. 
+
+# BOMOS documentatie
 Dit document maakt deel uit van de BOMOS documentatie. Deze bestaat uit
 2 basisdocumenten, aanvullende modules en ondersteunende documenten. Alle
 documentatie is te vinden via de Logius website. Hier staan de repositories
