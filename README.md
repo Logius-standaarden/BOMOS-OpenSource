@@ -1,4 +1,4 @@
-# BOMOS voor open source
+# _BOMOSS_ voor open source
 Wanneer bij de keuze voor een software applicatie een afweging gemaakt moet worden 
 tussen een open source applicatie en een met een gesloten (commercieele) licentie 
 spelen naast criteria als kosten en kwaliteit ook altijd de vraag 
