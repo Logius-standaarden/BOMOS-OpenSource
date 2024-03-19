@@ -13,6 +13,17 @@ belangrijker geworden.
 Om de module te onderscheiden van BOMOS voor standaarden noemen we het _BOMOSS_,
 het Beheer- en Ontwikkelmodel voor Open Source Software.
 
+## De BOMOS activiteiten
+
+BOMOS kent een aantal activiteiten die delen van het standaardenbeheerproces invullen. 
+Deze activiteiten worden ook in BOMOSS aangehouden hoewel ze net allemaal even relevant
+zijn voor het beheerproces van open source code.
+
+![BOMOS Activiteitendiagram](images/BOMOS-15_Bomos-activiteiten-blanco.png "BOMOS Activiteitendiagram")
+
+Activiteiten als _community_, _financiën_ en _rechtenbeleid_ zijn in het byzonder relevant 
+voor open source code. Deze activiteiten krijgen dan ook extra aandacht in BOMOSS.
+
 ## Open standaarden en open source
 
 Open standaarden hebben hun plek binnen de overheid voor een belangrijk deel te danken aan het actieplan 
@@ -28,7 +39,7 @@ Open source als principe voor de digitale overheid is teruggekeerd op de agenda.
 komen overeenkomsten naar voren tussen het beheer van open standaarden en open source code. 
 Uit die studies komen adviezen hoe open source en open standaarden elkaar kunnen versterken.
 
-## Europees perspectief
+### Europees perspectief
 
 De EU heeft een onderzoek laten uitvoeren naar de overeenkomsten en de mogelijkheden tot wederzijdse 
 versterking van open source en standaarden ontwikkeling [[JRC117836]]. De scope van de studie is de 

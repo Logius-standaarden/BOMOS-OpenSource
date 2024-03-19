@@ -8,7 +8,7 @@ var respecConfig = {
   shortName: "opensource",
   publishDate: "2023-01-31",
   publishVersion: "0.0.1",
-  title: "BOMOS voor open source",
+  title: "BOMOSS open source",
   // previousPublishVersion: "(none)",
   content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:
