@@ -24,14 +24,14 @@ door het Forum voor Standaardisatie. Voor het beheer van open standaarden is in 
 en ontwikkelmodel open standaarden (BOMOS) ontwikkeld. Met versie 3 is de scope hiervan verbreed met 
 het beheer van afsprakenstelsels.
 
-Open source als principe voor de digitale overheid is teruggekeerd op de agenda. Uit studies [[Krechmer2002 ] 
+Open source als principe voor de digitale overheid is teruggekeerd op de agenda. Uit studies [[Krechmer2002]] 
 komen overeenkomsten naar voren tussen het beheer van open standaarden en open source code. 
 Uit die studies komen adviezen hoe open source en open standaarden elkaar kunnen versterken.
 
 ## Europees perspectief
 
 De EU heeft een onderzoek laten uitvoeren naar de overeenkomsten en de mogelijkheden tot wederzijdse 
-versterking van open source en standaarden ontwikkeling [[JRC117836 ]]. De scope van de studie is de 
+versterking van open source en standaarden ontwikkeling [[JRC117836]]. De scope van de studie is de 
 EU als organisatie, niet van de lidstaten. Er wordt uitgegaan van standaardenbeheerorganisaties op 
 Europees (of internationaal) niveau. Binnen deze organisaties (zoals bijvoorbeeld W3C en OASIS) hebben 
 de grote IT bedrijven en sterke rol. Binnen Nederlandse context is deze commercieele invloed veel kleiner. 
