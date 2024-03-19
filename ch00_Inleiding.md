@@ -40,9 +40,9 @@ internationale standaarden en participeren we in internationale standaardenorgan
 In de studie wordt een literatuuronderzoek gepresenteerd en een aantal case studies.
 
 In de literatuurstudie vond men drie scenarios waarin standaardbeheer en open source op elkaar aan kunnen sluiten:
-1.	Standards implemented as OSS (“standard first”)
-2.	OSS code as input into a standard (“software implementation first”)
-3.	OSS and standardisation in parallel (“standard and implementation of standard in parallel”)
+1. Standards implemented as OSS (“standard first”)
+2. OSS code as input into a standard (“software implementation first”)
+3. OSS and standardisation in parallel (“standard and implementation of standard in parallel”)
 
 De conclusies en aanbevelingen van de studie zijn ook binnen de Nederlandse context interessant. Met name de aansluiting op beleid. De studie concludeert onder meer dat “formalized decision making in SDOs provides stability and acceptance, for example in the interaction with policy makers”. De aansluiting van de besluitvorming in standaarden op de GDI overleggen die we in 2023 gerealiseerd hebben kan als inspiratie dienen om beleid invloed te geven binnen open source projecten van de overheid.
 Aanbevelingen uit het rapport
