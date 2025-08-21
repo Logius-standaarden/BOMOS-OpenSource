@@ -12,7 +12,8 @@ loadRespecWithConfiguration({
   publishDate: "2023-01-31",
   publishVersion: "0.0.1",
   subtitle: "BOMOS voor open source",
-  // previousPublishVersion: "(none)",
+  // TODO: Remove before publishing
+  prevVersion: [],
   content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:
     [
