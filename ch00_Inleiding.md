@@ -19,7 +19,7 @@ BOMOS kent een aantal activiteiten die delen van het standaardenbeheerproces inv
 Deze activiteiten worden ook in BOMOSS aangehouden hoewel ze net allemaal even relevant
 zijn voor het beheerproces van open source code.
 
-![BOMOS Activiteitendiagram](images/BOMOS-15_Bomos-activiteiten-blanco.png "BOMOS Activiteitendiagram")
+![BOMOS Activiteitendiagram](media/BOMOS-15_Bomos-activiteiten-blanco.png "BOMOS Activiteitendiagram")
 
 Activiteiten als _community_, _financiën_ en _rechtenbeleid_ zijn in het byzonder relevant 
 voor open source code. Deze activiteiten krijgen dan ook extra aandacht in BOMOSS.

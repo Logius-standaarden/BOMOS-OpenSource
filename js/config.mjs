@@ -14,7 +14,6 @@ loadRespecWithConfiguration({
   subtitle: "BOMOS voor open source",
   // TODO: Remove before publishing
   prevVersion: [],
-  content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:
     [
       {
