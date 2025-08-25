@@ -1,4 +1,7 @@
-var respecConfig = {
+import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
+import { generateMermaidFigures } from "https://logius-standaarden.github.io/publicatie/respec/plugins/mermaid.mjs";
+
+loadRespecWithConfiguration({
   useLogo: true,
   useLabel: true,
   license: "cc0",
@@ -8,15 +11,15 @@ var respecConfig = {
   shortName: "opensource",
   publishDate: "2023-01-31",
   publishVersion: "0.0.1",
-  title: "BOMOS voor open source",
-  // previousPublishVersion: "(none)",
-  content: {"ch01": "informative", "ch02": "", "mermaid": ""},
+  subtitle: "BOMOS voor open source",
+  // TODO: Remove before publishing
+  prevVersion: [],
   editors:
     [
       {
         name: "Logius Standaarden",
         company: "Logius",
-        companyURL: "https://github.com/Logius-standaarden",
+        companyURL: "https://logius.nl",
       }
     ],
   authors:
@@ -24,7 +27,7 @@ var respecConfig = {
       {
         name: "Logius Standaarden",
         company: "Logius",
-        companyURL: "https://github.com/Logius-standaarden",
+        companyURL: "https://logius.nl",
       }
     ],
   github: "https://github.com/Logius-standaarden/ReSpec-template",
@@ -37,4 +40,6 @@ var respecConfig = {
           uri: "BOMOS-OpenSource.pdf",
       },
   ],
-};
+
+  postProcess: [ generateMermaidFigures ]
+});

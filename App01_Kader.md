@@ -1,10 +1,8 @@
-# Kader en omgeving
+# Rondom BOMOSS
 
 BOMOS biedt principes voor het inrichten van het beheerproces. 
 Principes voor het schrijven en onderhouden van code zelf worden
 niet in deze handreiking besproken. 
-
-## Licenties en licentiekeuze
 
 ## Standard for public code
 
